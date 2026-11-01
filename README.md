@@ -81,7 +81,7 @@ The following figures show preliminary ECG data acquired using the custom hardwa
 
 **Raw And FFT-filtered ECG Signal**
 
-![ECG](\data_result\ECG\Graph1.png)
+![ECG](data_result/ECG/Graph1.png)
 
 The raw data were imported into Origin for waveform visualization and preliminary FFT-based filtering.
 
