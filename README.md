@@ -48,17 +48,17 @@ The first version focuses on learning the hardware design process and validating
 ## 3. PCB Design and Assembly
 
 ### SCH Schematic
-![SCH Schematic](hardware\v1.0\documentation\SCH_Schematic1.pdf)
+[View Schematic PDF](hardware/v1.0/documentation/SCH_Schematic1.pdf)
 
 ### PCB Design
 
-![PCB Top](hardware\v1.0\documentation\PCB_PCB1.png)
-![PCB back](hardware\v1.0\documentation\PCB_PCB2.png)
+![PCB Top](hardware/v1.0/documentation/PCB_PCB1.png)
+![PCB back](hardware/v1.0/documentation/PCB_PCB2.png)
 
 ### Assembled PCB
 
-![Assembled PCB top](hardware\v1.0\Image\PCB_Top.jpg)
-![Assembled PCB back](hardware\v1.0\Image\PCB_Back.jpg)
+![Assembled PCB top](hardware/v1.0/Image/PCB_Top.jpg)
+![Assembled PCB back](hardware/v1.0/Image/PCB_Back.jpg)
 
 *Hardware V1.0 — First attempt at designing and assembling a bio-signal acquisition PCB.*
 
