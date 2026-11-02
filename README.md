@@ -52,13 +52,13 @@ The first version focuses on learning the hardware design process and validating
 
 ### PCB Design
 
-![PCB Top](hardware/documentation/PCB_PCB1.png)
-![PCB back](hardware/documentation/PCB_PCB2.png)
+![PCB Top](V1.0/hardware/documentation/PCB_PCB1.png)
+![PCB back](V1.0/hardware/documentation/PCB_PCB2.png)
 
 ### Assembled PCB
 
-![Assembled PCB top](hardware/Image/PCB_Top.jpg)
-![Assembled PCB back](hardware/Image/PCB_Back.jpg)
+![Assembled PCB top](V1.0/hardware/Image/PCB_Top.jpg)
+![Assembled PCB back](V1.0/hardware/Image/PCB_Back.jpg)
 
 *Hardware V1.0 — First attempt at designing and assembling a bio-signal acquisition PCB.*
 
@@ -81,7 +81,7 @@ The following figures show preliminary ECG data acquired using the custom hardwa
 
 **Raw And FFT-filtered ECG Signal**
 
-![ECG](data_result/ECG/Graph1.png)
+![ECG](V1.0/data_result/ECG/Graph1.png)
 
 The raw data were imported into Origin for waveform visualization and preliminary FFT-based filtering.
 
